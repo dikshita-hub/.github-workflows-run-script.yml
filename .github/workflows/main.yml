@@ -24,4 +24,4 @@ jobs:
 
       - name: Run script
         run: |
-          python Holdings daily (1).py
+          python holdings_daily.py
